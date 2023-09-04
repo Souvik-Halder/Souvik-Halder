@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Souvik  from Halder<br><br>- 🔭 I’m working as FullStack Developer<br>- 📚 I'm currently learning Cloud Computing,Docker.<br>- ⚡ In my free time I play chess</p>
+<p align="left">I'm Souvik Halder from Bhubaneswar<br><br>- 🔭 I’m working as FullStack Developer<br>- 📚 I'm currently learning Cloud Computing,Docker.<br>- ⚡ In my free time I play chess</p>
 
 ###
 
